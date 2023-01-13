@@ -77,10 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Siddharth Singh has over 12+ years of software development experience, working on a variety of platforms such as Windows, web, and mobile applications. Having worked
-at Expedia, Adobe and Salesforce, his experience ranges from COM\ASP based legacy apps to React\ASPNET Core modern applications.
-
-He currently works at Microsoft as a Senior Developer in Azure Data factory, writing data integration applications. When not at work, you can find him reading about theoretical computer science and Artificial General Intelligence.
-
-He is currently pursuing a post graduate program at IIIT Hyderabad with a focus on Artificial Intelligence.
+Siddharth Singh has over 12+ years of software development experience, working on a variety of platforms such as Windows, web, and mobile applications. He currently works at Microsoft as a Senior Developer in Azure Data factory, writing data integration applications. He is also a post graduate student at IIIT, Hyderabad with a focus on Artificial Intelligence.
 {style="text-align: justify;"}
