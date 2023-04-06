@@ -16,17 +16,29 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Python
+          description: Scripting, ML
+          icon: python
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Machine Learning
+          description: Always Learning
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: C#
           description: 10%
-          icon: camera-retro
+          icon: Backend Engineering
+          icon_pack: fas
+        - name: Azure
+          description: Cloud, ML
+          icon: microsoft
+          icon_pack: fas
+        - name: Pytorch
+          description: Model building
+          icon: python
+          icon_pack: fas
+        - name: TypeScript
+          description: UX building
+          icon: js
           icon_pack: fas
   - block: experience
     content:
@@ -40,27 +52,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Student
+          company: IIIT Hyderabad
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: 
+          location: Hyderabad
+          date_start: '2023-01-03'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: Focus on Machine Learning
+        - title: Senior Engineer
+          company: Microsoft
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: microsft
+          location: Hyderabad
+          date_start: '2020-12-07'
+          date_end: ''
+          description: Data Integration Backend dev at Azure Data Factory
     design:
       columns: '2'
   - block: accomplishments
